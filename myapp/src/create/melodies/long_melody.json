@@ -1,0 +1,193 @@
+{
+  "name": "long_melody",
+  "header": {
+    "format": 1,
+    "numTracks": 3,
+    "ticksPerBeat": 480
+  },
+  "tracks": [
+    [
+      {
+        "deltaTime": 0,
+        "meta": true,
+        "type": "setTempo",
+        "microsecondsPerQuarterNote": 500000
+      },
+      {
+        "deltaTime": 0,
+        "meta": true,
+        "type": "timeSignature",
+        "numerator": 4,
+        "denominator": 4,
+        "metronome": 24,
+        "thirtyseconds": 8
+      },
+      {
+        "deltaTime": 0,
+        "meta": true,
+        "type": "endOfTrack"
+      }
+    ],
+    [
+      {
+        "deltaTime": 0,
+        "type": "noteOn",
+        "channel": 0,
+        "noteNumber": 60,
+        "velocity": 64
+      },
+      {
+        "deltaTime": 480,
+        "type": "noteOff",
+        "channel": 0,
+        "noteNumber": 60,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 240,
+        "type": "noteOn",
+        "channel": 0,
+        "noteNumber": 62,
+        "velocity": 64
+      },
+      {
+        "deltaTime": 480,
+        "type": "noteOff",
+        "channel": 0,
+        "noteNumber": 62,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 240,
+        "type": "noteOn",
+        "channel": 0,
+        "noteNumber": 64,
+        "velocity": 64
+      },
+      {
+        "deltaTime": 480,
+        "type": "noteOff",
+        "channel": 0,
+        "noteNumber": 64,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 240,
+        "type": "noteOn",
+        "channel": 0,
+        "noteNumber": 67,
+        "velocity": 64
+      },
+      {
+        "deltaTime": 480,
+        "type": "noteOff",
+        "channel": 0,
+        "noteNumber": 67,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "meta": true,
+        "type": "endOfTrack"
+      }
+    ],
+    [
+      {
+        "deltaTime": 0,
+        "type": "noteOn",
+        "channel": 1,
+        "noteNumber": 48,
+        "velocity": 48
+      },
+      {
+        "deltaTime": 960,
+        "type": "noteOff",
+        "channel": 1,
+        "noteNumber": 48,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 480,
+        "type": "noteOn",
+        "channel": 1,
+        "noteNumber": 52,
+        "velocity": 48
+      },
+      {
+        "deltaTime": 960,
+        "type": "noteOff",
+        "channel": 1,
+        "noteNumber": 52,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 480,
+        "type": "noteOn",
+        "channel": 1,
+        "noteNumber": 55,
+        "velocity": 48
+      },
+      {
+        "deltaTime": 960,
+        "type": "noteOff",
+        "channel": 1,
+        "noteNumber": 55,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "meta": true,
+        "type": "endOfTrack"
+      }
+    ],
+    [
+      {
+        "deltaTime": 0,
+        "type": "noteOn",
+        "channel": 2,
+        "noteNumber": 36,
+        "velocity": 40
+      },
+      {
+        "deltaTime": 1440,
+        "type": "noteOff",
+        "channel": 2,
+        "noteNumber": 36,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 720,
+        "type": "noteOn",
+        "channel": 2,
+        "noteNumber": 40,
+        "velocity": 40
+      },
+      {
+        "deltaTime": 1440,
+        "type": "noteOff",
+        "channel": 2,
+        "noteNumber": 40,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 720,
+        "type": "noteOn",
+        "channel": 2,
+        "noteNumber": 43,
+        "velocity": 40
+      },
+      {
+        "deltaTime": 1440,
+        "type": "noteOff",
+        "channel": 2,
+        "noteNumber": 43,
+        "velocity": 0
+      },
+      {
+        "deltaTime": 0,
+        "meta": true,
+        "type": "endOfTrack"
+      }
+    ]
+  ]
+}
